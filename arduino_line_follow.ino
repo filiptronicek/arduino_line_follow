@@ -1,7 +1,6 @@
-#include "UNObot.h"
+#include "UNObot.h" // Include the UNObot library (https://github.com/tuc-roboschool/UNObot)
 
 void setup() {
-  // put your setup code here, to run once:
   UNObot_init();
   int checkPoint = 0;
 
