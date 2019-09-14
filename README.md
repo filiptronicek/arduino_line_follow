@@ -8,5 +8,7 @@ Libraries:
 [UnoBot](https://github.com/tuc-roboschool/UNObot)
 
 
+**[read the article about this here](http://filiptronicek.me/roboschool_2019/)**
+
 
 *Created by Martin Helmich and Filip Troníček on RoboSchool 2019*
