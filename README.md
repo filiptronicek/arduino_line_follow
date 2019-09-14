@@ -1,6 +1,6 @@
 # Line follow
  
-An arduino script that follows a maze created by RoboSchool in Chemnitz
+An Arduino script that follows a parkour-course for the competition organized by [RoboSchool](https://github.com/tuc-roboschool) in the [Technical University of Chemnitz](https://www.tu-chemnitz.de/)
 
 
 Libraries:
