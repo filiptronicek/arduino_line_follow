@@ -3,7 +3,7 @@
 An Arduino script that follows a parkour-course for the competition organized by [RoboSchool](https://github.com/tuc-roboschool) in the [Technical University of Chemnitz](https://www.tu-chemnitz.de/)
 
 
-Libraries:
+Library dependencies:
 
 [UnoBot](https://github.com/tuc-roboschool/UNObot)
 
